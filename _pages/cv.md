@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Applied and Industrial Mathematics, Towson University University, August 2022 - May 2024
+* B.S. in Applied Mathematics, Stetson University, August 2018 - May 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Data Science Intern, Hortifrut
+#### July 2024 - September 2024
+* Github University
+* Duties includes: Updates and improvements to template
+* Supervisor: The Users
 
 * Fall 2015: Research Assistant
   * Github University
