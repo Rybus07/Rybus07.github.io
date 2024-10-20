@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ryan Arthur Michael Peters"
+title                    : "RAMP"
 title_separator          : "-"
 name                     : &name "Ryan Arthur Michael Peters"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "Rybus07/Rybus07.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ryan Arthur Micahel Peters"
   pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Baltimore, MD"
-  employer         : "Red Brick University"
+  employer         : "Hortifrut"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ryan.peters000@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Rybus07"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
